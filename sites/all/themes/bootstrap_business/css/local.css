@@ -2,3 +2,7 @@
 li.leaf {
   color: #514B78 !important;
 }
+
+img.craftImage { 
+  margin: 50px 5px -15px 0px; 
+}
